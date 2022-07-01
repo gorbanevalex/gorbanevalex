@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/MyTelegram-green" alt="TG"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=gorbanevalex&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=gorbanevalex&style=flat-square&color=blue" alt=""/>
 <!--
 **gorbanevalex/gorbanevalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
