@@ -12,8 +12,10 @@
   <a href="https://t.me/linberg_07" targer="_blank">
     <img src="https://img.shields.io/badge/MyTelegram-green" alt="TG"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=gorbanevalex&style=flat-square&color=blue" alt=""/>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=gorbanevalex&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gorbanevalex&style=flat-square&color=blue" alt=""/>
 <!--
 **gorbanevalex/gorbanevalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
