@@ -2,6 +2,18 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
 </div>
 
+<div id="badges">
+  <a href="mailto:gorbanev.2001@list.ru">
+    <img src="https://img.shields.io/badge/Mail.ru-orange" alt="Mail.ru"/>
+  </a>
+  <a href="https://vk.com/id402624035">
+    <img src="https://img.shields.io/badge/MyVK-blue" alt="VK"/>
+  </a>
+  <a href="https://t.me/linberg_07">
+    <img src="https://img.shields.io/badge/MyTelegram-blue" alt="TG"/>
+  </a>
+</div>
+
 <!--
 **gorbanevalex/gorbanevalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
