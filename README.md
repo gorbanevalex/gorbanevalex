@@ -27,11 +27,11 @@
 <h1>About Me:</h1>
 <p>I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: This is my third year of front-end development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Creation of sites, online stores, stretching sites on control systems, writing scripts
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time I solve problems on CodeWars and continue to study new technologies
 <!--
 **gorbanevalex/gorbanevalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
