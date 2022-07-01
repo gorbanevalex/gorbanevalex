@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/MyVK-blue" alt="VK"/>
   </a>
   <a href="https://t.me/linberg_07">
-    <img src="https://img.shields.io/badge/MyTelegram-blue" alt="TG"/>
+    <img src="https://img.shields.io/badge/MyTelegram-green" alt="TG"/>
   </a>
 </div>
 
