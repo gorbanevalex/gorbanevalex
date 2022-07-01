@@ -3,13 +3,13 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="mailto:gorbanev.2001@list.ru">
+  <a href="mailto:gorbanev.2001@list.ru" targer="_blank">
     <img src="https://img.shields.io/badge/Mail.ru-orange" alt="Mail.ru"/>
   </a>
-  <a href="https://vk.com/id402624035">
+  <a href="https://vk.com/id402624035" targer="_blank">
     <img src="https://img.shields.io/badge/MyVK-blue" alt="VK"/>
   </a>
-  <a href="https://t.me/linberg_07">
+  <a href="https://t.me/linberg_07" targer="_blank">
     <img src="https://img.shields.io/badge/MyTelegram-green" alt="TG"/>
   </a>
 </div>
