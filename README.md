@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="mailto:gorbanev.2001@list.ru">
     <img src="https://img.shields.io/badge/Mail.ru-orange" alt="Mail.ru"/>
   </a>
