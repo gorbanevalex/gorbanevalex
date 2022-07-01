@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img style="border-radius:50%;" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="150"/>
 </div>
 
 <!--
